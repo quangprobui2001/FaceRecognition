@@ -1,0 +1,15 @@
+tensorflow
+scipy
+scikit-learn
+opencv-python
+h5py
+matplotlib
+Pillow
+requests
+psutil
+torch==2.3.1
+torchvision
+numpy
+facenet_pytorch
+pandas
+compreface-sdk
